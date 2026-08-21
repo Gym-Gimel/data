@@ -1,2 +1,2 @@
 id,slug,title,startDate,endDate,location,category,group,status,description,registrationUrl,programUrl,resultsUrl,featured
-competition-concours-agres-demo,concours-agres-demo,Concours agrès régional,2026-05-17,2026-05-17,Aubonne,Concours de gymnastique,Agrès,upcoming,"Concours de démonstration pour tester l'affichage des programmes et résultats.",,,/documents/resultats-exemple.pdf,false
+competition-concours-agres-demo,concours-agres-demo,Concours agrès régional,2026-05-17,2026-05-17,Aubonne,Concours de gymnastique,Agrès,finished,"Concours de démonstration pour tester l'affichage des programmes et résultats.",,,/documents/resultats-exemple.pdf,false
