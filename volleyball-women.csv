@@ -1,15 +1,15 @@
 id,season,date,time,competition,homeTeam,awayTeam,location,homeScore,awayScore,status,externalUrl
-vw-f-2026-01,2026,2026-09-22,20:00,Volley-Wellness,Gimel Femmes,Echallens,Collège du Marais,,,scheduled
-vw-f-2026-02,2026,2026-10-05,19:30,Volley-Wellness,Volley Crans,Gimel Femmes,Salle Communale,,,scheduled
-vw-f-2026-03,2026,2026-11-03,19:45,Volley-Wellness,Echandens 2,Gimel Femmes,Salle d'Echandens,,,scheduled
-vw-f-2026-04,2026,2026-11-17,20:00,Volley-Wellness,Haute-Broye,Gimel Femmes,Centre sportif Oron-la-Ville,,,scheduled
-vw-f-2026-05,2026,2026-11-24,20:00,Volley-Wellness,Gimel Femmes,Pomy 2,Collège du Marais,,,scheduled
-vw-f-2026-06,2026,2026-12-15,20:00,Volley-Wellness,Gimel Femmes,Crassier F,Collège du Marais,,,scheduled
-vw-f-2026-07,2026,2027-01-19,19:20,Volley-Wellness,Gimel Femmes,Pomy 1,Collège du Marais,,,scheduled
-vw-f-2026-08,2026,2027-02-04,20:00,Volley-Wellness,Echallens,Gimel Femmes,Collège de Court-Champ,,,scheduled
-vw-f-2026-09,2026,2027-02-23,20:00,Volley-Wellness,Gimel Femmes,Volley Crans,Collège du Marais,,,scheduled
-vw-f-2026-10,2026,2027-03-09,20:00,Volley-Wellness,Gimel Femmes,Echandens 2,Collège du Marais,,,scheduled
-vw-f-2026-11,2026,2027-03-23,20:00,Volley-Wellness,Gimel Femmes,Haute-Broye,Collège du Marais,,,scheduled
-vw-f-2026-12,2026,2027-04-21,20:00,Volley-Wellness,Pomy 2,Gimel Femmes,Salle de gym Pomy,,,scheduled
-vw-f-2026-13,2026,2027-05-14,20:15,Volley-Wellness,Crassier F,Gimel Femmes,Établissement Scolaire Elisabeth de Portes,,,scheduled
-vw-f-2026-14,2026,2027-05-25,20:00,Volley-Wellness,Pomy 1,Gimel Femmes,Salle de gym Pomy,,,scheduled
+vw-f-2026-01,2026,2026-09-22,20:00,Volley-Wellness,Gimel Femmes,Echallens,Collège du Marais,,,scheduled,
+vw-f-2026-02,2026,2026-10-05,19:30,Volley-Wellness,Volley Crans,Gimel Femmes,Salle Communale,,,scheduled,
+vw-f-2026-03,2026,2026-11-03,19:45,Volley-Wellness,Echandens 2,Gimel Femmes,Salle d'Echandens,,,scheduled,
+vw-f-2026-04,2026,2026-11-17,20:00,Volley-Wellness,Haute-Broye,Gimel Femmes,Centre sportif Oron-la-Ville,,,scheduled,
+vw-f-2026-05,2026,2026-11-24,20:00,Volley-Wellness,Gimel Femmes,Pomy 2,Collège du Marais,,,scheduled,
+vw-f-2026-06,2026,2026-12-15,20:00,Volley-Wellness,Gimel Femmes,Crassier F,Collège du Marais,,,scheduled,
+vw-f-2026-07,2026,2027-01-19,19:20,Volley-Wellness,Gimel Femmes,Pomy 1,Collège du Marais,,,scheduled,
+vw-f-2026-08,2026,2027-02-04,20:00,Volley-Wellness,Echallens,Gimel Femmes,Collège de Court-Champ,,,scheduled,
+vw-f-2026-09,2026,2027-02-23,20:00,Volley-Wellness,Gimel Femmes,Volley Crans,Collège du Marais,,,scheduled,
+vw-f-2026-10,2026,2027-03-09,20:00,Volley-Wellness,Gimel Femmes,Echandens 2,Collège du Marais,,,scheduled,
+vw-f-2026-11,2026,2027-03-23,20:00,Volley-Wellness,Gimel Femmes,Haute-Broye,Collège du Marais,,,scheduled,
+vw-f-2026-12,2026,2027-04-21,20:00,Volley-Wellness,Pomy 2,Gimel Femmes,Salle de gym Pomy,,,scheduled,
+vw-f-2026-13,2026,2027-05-14,20:15,Volley-Wellness,Crassier F,Gimel Femmes,Établissement Scolaire Elisabeth de Portes,,,scheduled,
+vw-f-2026-14,2026,2027-05-25,20:00,Volley-Wellness,Pomy 1,Gimel Femmes,Salle de gym Pomy,,,scheduled,
